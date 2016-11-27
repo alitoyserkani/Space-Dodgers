@@ -1,2 +1,2 @@
 # Space-Dodgers
-Object-oriented game which prompts keyboard and mouse-input. Just take a look for yourself.
+Object-oriented game which chalenges user's arrow key maneuvearability, in a simple, fun game.
