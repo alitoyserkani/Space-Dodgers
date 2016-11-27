@@ -1,2 +1,2 @@
 # Space-Dodgers
-Object-oriented game which chalenges user's arrow key maneuvearability, in a simple, fun game.
+A simple, fun, object-oriented game which challenges user's arrow key maneuvearability, speed and timing.
